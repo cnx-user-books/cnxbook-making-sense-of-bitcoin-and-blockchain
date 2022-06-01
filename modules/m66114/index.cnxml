@@ -1,0 +1,29 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Bitcoin: How Do You Get Bitcoin?</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66114</md:content-id>
+  <md:title>Bitcoin: How Do You Get Bitcoin?</md:title>
+  <md:abstract>Dr. William Luther of Kenyon College describes the three different ways to get bitcoin.</md:abstract>
+  <md:uuid>81b6fe42-b3ff-4e2d-9265-0c58c7845920</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me"><figure id="moonlanding-youtube"><media id="yt-media" display="block" alt="Video">
+    <iframe width="600" height="400" src="https://www.youtube.com/embed/hyfk-HyMkvk"/>
+ </media>
+<caption>"How Do You Get Bitcoin?" by the Institute for Humane Studies</caption></figure></para><para id="eip-421"><title>Description</title>Dr. William Luther of Kenyon College describes the three different ways to get bitcoin.</para><exercise id="eip-880"><problem id="eip-1">
+  <para id="eip-733">
+    The following are ways to obtain bitcoin EXCEPT for
+<list id="grocerylist" list-type="enumerated" number-style="lower-alpha"><item>exchanging local currency.</item>
+  <item>accepting bitcoin for goods or services.</item>
+  <item>joining the Bitcoin server.</item>
+<item>mining bitcoin.</item>
+</list></para>
+</problem>
+
+<solution id="eip-101">
+  <para id="eip-638">c. joining the Bitcoin server.</para></solution>
+</exercise></content>
+
+</document>

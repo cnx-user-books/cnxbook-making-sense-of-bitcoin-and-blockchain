@@ -1,0 +1,29 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Bitcoin: Making Payments with Bitcoin</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66134</md:content-id>
+  <md:title>Bitcoin: Making Payments with Bitcoin</md:title>
+  <md:abstract>If bitcoin is a digital currency, how does one make payments? Dr. William Luther of Kenyon College explains.</md:abstract>
+  <md:uuid>36bebe57-d53f-4451-9ac3-ef85886ac48a</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me"><figure id="moonlanding-youtube"><media id="yt-media" display="block" alt="Video">
+    <iframe width="600" height="400" src="https://www.youtube.com/embed/IlWLDE1-Uhs"/>
+ </media>
+<caption>"Making Payments with Bitcoin" by the Institute for Humane Studies</caption></figure></para><para id="eip-540"><title>Description</title>If bitcoin is a digital currency, how does one make payments? Dr. William Luther of Kenyon College explains.</para><exercise id="eip-662"><problem id="eip-644">
+  <para id="eip-466">
+    Although it is a digital currency, bitcoin can be exchanged face-to-face by using
+<list id="grocerylist" list-type="enumerated" number-style="lower-alpha"><item>smartwatches, which can transfer bitcoin without even using the block chain.</item>
+  <item>special handheld devices that deal only in bitcoin.</item>
+  <item>a specific kind of credit card.</item>
+  <item>smartphones, which can transfer bitcoin through scanning QR codes.</item>
+</list></para>
+</problem>
+
+<solution id="eip-638">
+  <para id="eip-369">d. smartphones, which can transfer bitcoin through scanning QR codes.</para></solution>
+</exercise></content>
+
+</document>

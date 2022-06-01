@@ -1,0 +1,35 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Capitalism and Political Economy: Bitcoin, Cryptocurrency, and the Future of Money</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m65165</md:content-id>
+  <md:title>Capitalism and Political Economy: Bitcoin, Cryptocurrency, and the Future of Money</md:title>
+  <md:abstract>In this lecture, Professor Michael Munger of Duke University discusses rise of cryptocurrencies and their importance in the global economy.</md:abstract>
+  <md:uuid>e077f5c4-5a73-4bc8-a2ad-b71120201b2d</md:uuid>
+</metadata>
+
+<content>
+  <section id="eip-846"><title>Lecture</title><para id="eip-162"><figure id="moonlanding-youtube"><media id="yt-media" display="block" alt="Video of the Neil Armstrong on the Moon">
+    <iframe width="600" height="400" src="https://www.youtube.com/embed/eTGSC42lfmQ"/>
+ </media>
+<caption>"Bitcoin" reproduced with permission from instructor Professor Michael Munger and producer Shaun King</caption></figure></para><para id="eip-101"><title>Watch on YouTube</title><link url="https://youtu.be/eTGSC42lfmQ" window="new">https://youtu.be/eTGSC42lfmQ</link></para></section><section id="eip-184"><title>Lecture Overview</title><para id="eip-31">
+<list id="lectureoverview" list-type="enumerated" number-style="arabic"><item>Venezuela as an example: a "shortage" of money?</item>
+  <item>Bitcoin: Is a global crypto-currency, has been around since January of 2009. It is not issued by any entity, but rather is peer-to-peer / decentralized. It trades over the internet, or “feature phones.” The protocol is open source. The participants are owners, buyers, and "miners," or people who transmit and check transactions.</item>
+  <item>The maximum number of Bitcoins will be about 21 million. A bitcoin is a unit of measurement, but the “unit” depends on solely on how people value it in transactions. No physical existence.</item>
+  <item>Five essential steps in a Bitcoin transaction: (1) owner of Bitcoins signs in, using public key (or Bitcoin Address) a bit like username) and a private key (a bit like password).
+(2) owner of Bitcoins sends X Bitcoins (highly divisible) to another Bitcoin Address. 
+(3) This information is then broadcast by the software on the sender’s phone or PC, and received by all the (active) nodes in the network
+(4) All the active nodes add the (pending) transaction to the relevant (current) block. A block is like a ledger entry, divided into 10 minute intervals. All the transactions in one 10 minute interval are in the same block (blocks are disjoint: 10:10 to 10:20, 10:20 to 10:30, and so on…)
+(5) The block is run through a hash function by miners. This is a unique set of characters that contain all the information in the entire block, though knowing the hash won’t let you reproduce the block. Blocks are linked to previous blocks, creating a blockchain. The value of every account is evident on the blockchain.
+</item>
+        
+
+</list></para></section><section id="eip-659"><title>Readings</title><para id="eip-56">
+<list id="readinglist"><item><link url="http://historyofbitcoin.org/" window="new">The History of Bitcoin</link></item>
+<item><link url="https://www.amazon.com/Age-Cryptocurrency-Blockchain-Challenging-Economic/dp/1250081556" window="new">Vigna, P., and M.J. Casey, <emphasis effect="italics"> The Age of Cryptocurrency</emphasis></link></item>
+</list></para></section><section id="eip-285"><title>Additional Resources</title><para id="eip-813">
+<list id="grocerylist"><title>Podcasts</title><item><link url="http://www.econtalk.org/archives/2011/04/andresen_on_bit.html" window="new">Gavin Andresen on BitCoin and Virtual Currency</link></item>
+  <item><link url="http://www.econtalk.org/archives/2014/05/gavin_andresen.html" window="new">Gavin Andresen on the Present and Future of Bitcoin</link></item>
+</list></para></section></content>
+
+</document>

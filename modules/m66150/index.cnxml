@@ -1,0 +1,29 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Bitcoin: Is Bitcoin Money?</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66150</md:content-id>
+  <md:title>Bitcoin: Is Bitcoin Money?</md:title>
+  <md:abstract>Dr. William Luther of Kenyon College discusses whether bitcoin falls under the definition of money.</md:abstract>
+  <md:uuid>6a0be48d-c9f6-4b23-90af-9e49cdfef7f5</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me"><figure id="moonlanding-youtube"><media id="yt-media" display="block" alt="Video">
+    <iframe width="600" height="400" src="https://www.youtube.com/embed/ffCYpM-u7C4"/>
+ </media>
+<caption>"Is Bitcoin Money?" by the Institute for Humane Studies</caption></figure></para><para id="eip-236"><title>Description</title>Dr. William Luther of Kenyon College discusses whether bitcoin falls under the definition of money.</para><exercise id="eip-716"><problem id="eip-731">
+  <para id="eip-934">
+    Bitcoin is a medium of exchange, but whether or not it’s called money depends on
+<list id="grocerylist" list-type="enumerated" number-style="lower-alpha"><item>bitcoin being adopted by the US Federal Reserve.</item>
+  <item>bitcoin being commonly accepted.</item>
+  <item>the value of bitcoin compared to other media of exchange.</item>
+  <item>the value of bitcoin compared to the US dollar.</item>
+</list></para>
+</problem>
+
+<solution id="eip-28">
+  <para id="eip-701">b. bitcoin being commonly accepted.</para></solution>
+</exercise></content>
+
+</document>

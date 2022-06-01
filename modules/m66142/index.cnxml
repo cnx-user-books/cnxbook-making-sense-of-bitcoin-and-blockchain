@@ -1,0 +1,29 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Bitcoin: The Supply of Bitcoin</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66142</md:content-id>
+  <md:title>Bitcoin: The Supply of Bitcoin</md:title>
+  <md:abstract>Dr. William Luther of Kenyon College discusses how the supply of bitcoin is stabilized.</md:abstract>
+  <md:uuid>e3509b3d-c88a-4293-bc04-b80f0b9d033d</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me"><figure id="moonlanding-youtube"><media id="yt-media" display="block" alt="Video">
+    <iframe width="600" height="400" src="https://www.youtube.com/embed/50iDE2dbm-c"/>
+ </media>
+<caption>"The Supply of Bitcoin" by the Institute for Humane Studies</caption></figure></para><para id="eip-698"><title>Description</title>Dr. William Luther of Kenyon College discusses how the supply of bitcoin is stabilized.</para><exercise id="eip-373"><problem id="eip-852">
+  <para id="eip-534">
+    Bitcoin resembles a commodity money in that
+<list id="grocerylist" list-type="enumerated" number-style="lower-alpha"><item>the supply is not governed by an automatic mechanism.</item>
+  <item>the demand is governed by an automatic mechanism.</item>
+  <item>a central bank can help change the supply of bitcoin.</item>
+  <item>the supply is governed by an automatic mechanism.</item>
+</list></para>
+</problem>
+
+<solution id="eip-592">
+  <para id="eip-367">d. the supply is governed by an automatic mechanism.</para></solution>
+</exercise></content>
+
+</document>
